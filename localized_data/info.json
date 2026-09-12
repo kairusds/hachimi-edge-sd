@@ -1,0 +1,10 @@
+{
+  "name": "Skill Data Descriptions (Global)",
+  "description": "Bare translation repository for changing values from the \"Skill data descriptions\" feature to match Global server's terms.",
+  "homepage": "https://github.com/kairusds/hachimi-edge-sd",
+  "links": [],
+  "language": "en",
+  "changelog_url": "https://github.com/kairusds/hachimi-edge-sd/raw/refs/heads/global/changelog.md",
+  "maintainer": "kairusds",
+  "contributors": "https://github.com/kairusds/hachimi-edge-sd/graphs/contributors?all=1"
+}

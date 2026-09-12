@@ -1,0 +1,18 @@
+{
+    "localize_dict": null,
+    "hashed_dict": null,
+    "text_data_dict": null,
+    "character_system_text_dict": null,
+    "race_jikkyo_comment_dict": null,
+    "race_jikkyo_message_dict": null,
+
+    "use_text_wrapper": true,
+    "line_width_multiplier": 1.9,
+
+    "auto_adjust_story_clip_length": false,
+    "skill_list_item_desc_font_size_multiplier": 0.9,
+    "now_loading_comic_title_ellipsis": false,
+    "remove_ruby": false,
+
+    "news_url": "https://umamusume.com/news/"
+}

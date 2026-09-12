@@ -1,0 +1,27 @@
+{
+  "base_url": "https://raw.githubusercontent.com/kairusds/hachimi-edge-sd/global/localized_data",
+  "zip_url": "https://codeload.github.com/kairusds/hachimi-edge-sd/zip/refs/heads/global",
+  "zip_dir": "hachimi-edge-sd-global/localized_data",
+  "files": [
+    {
+      "path": "config.json",
+      "hash": "7a3518507ad4fcf4e6deb96f019a1b7e6db635a74aac6964c5f665ced1ae8f99",
+      "size": 484
+    },
+    {
+      "path": "icon.png",
+      "hash": "ac2bf1cdfce895c7b939e7ff4e771fe0c3dc61783dfe4e1af25b18c030f481d4",
+      "size": 117345
+    },
+    {
+      "path": "info.json",
+      "hash": "589e85fd4ec328e09eea95b57e495357efdf8a39c54df9fd9aaa5956f2daba24",
+      "size": 575
+    },
+    {
+      "path": "skill_data_desc_dict.json",
+      "hash": "bc40525d93b4739128270c2c7eaf90a9da21734c57970ace16fba38850209436",
+      "size": 26620
+    }
+  ]
+}
